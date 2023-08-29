@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Calcule seu IMC</string>
+    <string name="message">Calcule seu IMC</string>
+    <string name="message_classificacao">Classificaçao: %1$s! </string>
+</resources>
