@@ -1,5 +1,5 @@
 # Calculadora IMC
-Calculadora de IMC foi um aplicativo que desenvolvi para dar meus primeiros passos com desenvolvimento Android. Eu participei do desafio 10D na comunidade DevSpace e consegui sair do ZERO. 
+Calculadora de IMC: Meu primeiro app Android desenvolvido durante o desafio 10D da comunidade DevSpace. Essa experiência marcou minha transição de carreira, partindo do zero no desenvolvimento. A criação da Calculadora de IMC, com funcionalidades de cálculo de índice de massa corporal, reflete meu progresso e aprendizado nesse desafio gratificante. 
 
 
 
